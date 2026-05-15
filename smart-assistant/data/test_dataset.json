@@ -1,0 +1,14 @@
+[
+  {
+    "texto": "Meu produto chegou quebrado",
+    "tipo_esperado": "reclamacao"
+  },
+  {
+    "texto": "Como faço devolução?",
+    "tipo_esperado": "duvida"
+  },
+  {
+    "texto": "Atendimento excelente",
+    "tipo_esperado": "elogio"
+  }
+]
