@@ -26,7 +26,13 @@ pip install -r requirements.txt
 
 ```bash
 python main.py
-```
+
+```bash
+ollama --version
+
+```bash
+ollama run llama3
+
 
 ## Avaliação
 
