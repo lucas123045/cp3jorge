@@ -1,6 +1,12 @@
 # Smart Assistant - FIAP CP03
 
-Projeto desenvolvido para o Checkpoint 03 da FIAP.
+## Integrantes do Grupo
+
+- Lucas Klein da Veiga (RM 570029)
+- Pedro Andreassa Zamai (RM 569318)
+- Pedro Yoshikado Garcia (RM 570449)
+- Thiago Maluf Hofmann (RM 569852)
+- Rafael Ferreirinha Quaresma (RM 571949)
 
 ## Tecnologias
 - Python 3.10+
@@ -16,22 +22,13 @@ Projeto desenvolvido para o Checkpoint 03 da FIAP.
 pip install -r requirements.txt
 ```
 
-## Configuração
-Instale o Ollama e rode:
-
-```bash
-ollama run gpt-oss:120b
-```
-
 ## Execução
-
-Modo interativo:
 
 ```bash
 python main.py
 ```
 
-Modo avaliação:
+## Avaliação
 
 ```bash
 python main.py --eval
