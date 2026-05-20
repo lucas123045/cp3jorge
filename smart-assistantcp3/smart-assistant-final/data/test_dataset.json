@@ -1,0 +1,14 @@
+[
+  {
+    "texto": "Estou com problema no aplicativo",
+    "tipo_esperado": "reclamacao"
+  },
+  {
+    "texto": "Como faço login?",
+    "tipo_esperado": "duvida"
+  },
+  {
+    "texto": "Parabéns pelo atendimento",
+    "tipo_esperado": "elogio"
+  }
+]
